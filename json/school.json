@@ -1,0 +1,758 @@
+[
+  {
+    "schoolId": "100",
+    "schoolName": "ABANT İZZET BAYSAL ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "101",
+    "schoolName": "ABDULLAH GÜL ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "102",
+    "schoolName": "ACIBADEM MEHMET ALİ AYDINLAR ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "103",
+    "schoolName": "ADANA BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "104",
+    "schoolName": "ADIYAMAN ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "105",
+    "schoolName": "ADNAN MENDERES ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "106",
+    "schoolName": "AFYON KOCATEPE ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "107",
+    "schoolName": "AĞRI İBRAHİM ÇEÇEN ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "108",
+    "schoolName": "AHİ EVRAN ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "109",
+    "schoolName": "AKDENİZ KARPAZ ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "110",
+    "schoolName": "AKDENİZ ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "111",
+    "schoolName": "AKSARAY ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "112",
+    "schoolName": "ALANYA ALAADDİN KEYKUBAT ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "113",
+    "schoolName": "ALANYA HAMDULLAH EMİN PAŞA ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "114",
+    "schoolName": "ALTINBAŞ ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "115",
+    "schoolName": "AMASYA ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "116",
+    "schoolName": "ANADOLU ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "117",
+    "schoolName": "ANKARA SOSYAL BİLİMLER ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "118",
+    "schoolName": "ANKARA ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "119",
+    "schoolName": "ANKARA YILDIRIM BEYAZIT ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "120",
+    "schoolName": "ANTALYA AKEV ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "121",
+    "schoolName": "ANTALYA BİLİM ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "122",
+    "schoolName": "ARDAHAN ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "123",
+    "schoolName": "ARTVİN ÇORUH ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "124",
+    "schoolName": "ATAŞEHİR ADIGÜZEL MESLEK YÜKSEKOKULU"
+  },
+  {
+    "schoolId": "125",
+    "schoolName": "ATATÜRK ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "126",
+    "schoolName": "ATILIM ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "127",
+    "schoolName": "AVRASYA ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "128",
+    "schoolName": "AVRUPA MESLEK YÜKSEKOKULU"
+  },
+  {
+    "schoolId": "129",
+    "schoolName": "BAHÇEŞEHİR ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "130",
+    "schoolName": "BALIKESİR ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "131",
+    "schoolName": "BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "132",
+    "schoolName": "BARTIN ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "133",
+    "schoolName": "BAŞKENT ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "134",
+    "schoolName": "BATMAN ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "135",
+    "schoolName": "BAYBURT ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "136",
+    "schoolName": "BEYKENT ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "137",
+    "schoolName": "BEYKOZ ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "138",
+    "schoolName": "BEZM-İ ÂLEM VAKIF ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "139",
+    "schoolName": "BİLECİK ŞEYH EDEBALİ ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "140",
+    "schoolName": "BİNGÖL ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "141",
+    "schoolName": "BİRUNİ ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "142",
+    "schoolName": "BİTLİS EREN ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "143",
+    "schoolName": "BOĞAZİÇİ ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "144",
+    "schoolName": "BOZOK ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "145",
+    "schoolName": "BURSA TEKNİK ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "146",
+    "schoolName": "BÜLENT ECEVİT ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "147",
+    "schoolName": "CUMHURİYET ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "148",
+    "schoolName": "ÇAĞ ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "149",
+    "schoolName": "ÇANAKKALE ONSEKİZ MART ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "150",
+    "schoolName": "ÇANKAYA ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "151",
+    "schoolName": "ÇANKIRI KARATEKİN ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "152",
+    "schoolName": "ÇUKUROVA ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "153",
+    "schoolName": "DİCLE ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "154",
+    "schoolName": "DOĞU AKDENİZ ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "155",
+    "schoolName": "DOĞUŞ ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "156",
+    "schoolName": "DOKUZ EYLÜL ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "157",
+    "schoolName": "DUMLUPINAR ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "158",
+    "schoolName": "DÜZCE ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "159",
+    "schoolName": "EGE ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "160",
+    "schoolName": "ERCİYES ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "161",
+    "schoolName": "ERZİNCAN ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "162",
+    "schoolName": "ERZURUM TEKNİK ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "163",
+    "schoolName": "ESKİŞEHİR OSMANGAZİ ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "164",
+    "schoolName": "FARUK SARAÇ TASARIM MESLEK YÜKSEKOKULU"
+  },
+  {
+    "schoolId": "165",
+    "schoolName": "FATİH SULTAN MEHMET VAKIF ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "166",
+    "schoolName": "FIRAT ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "167",
+    "schoolName": "GALATASARAY ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "168",
+    "schoolName": "GAZİ ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "169",
+    "schoolName": "GAZİANTEP ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "170",
+    "schoolName": "GAZİOSMANPAŞA ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "171",
+    "schoolName": "GEBZE TEKNİK ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "172",
+    "schoolName": "GİRESUN ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "173",
+    "schoolName": "GİRNE AMERİKAN ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "174",
+    "schoolName": "GİRNE ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "175",
+    "schoolName": "GÜMÜŞHANE ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "176",
+    "schoolName": "HACETTEPE ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "177",
+    "schoolName": "HAKKARİ ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "178",
+    "schoolName": "HALİÇ ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "179",
+    "schoolName": "HARRAN ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "180",
+    "schoolName": "HASAN KALYONCU ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "181",
+    "schoolName": "HİTİT ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "182",
+    "schoolName": "IĞDIR ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "183",
+    "schoolName": "IŞIK ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "184",
+    "schoolName": "İBN HALDUN ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "185",
+    "schoolName": "İHSAN DOĞRAMACI BİLKENT ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "186",
+    "schoolName": "İNÖNÜ ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "187",
+    "schoolName": "İSKENDERUN TEKNİK ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "188",
+    "schoolName": "İSTANBUL 29 MAYIS ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "189",
+    "schoolName": "İSTANBUL AREL ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "190",
+    "schoolName": "İSTANBUL AYDIN ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "191",
+    "schoolName": "İSTANBUL AYVANSARAY ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "192",
+    "schoolName": "İSTANBUL BİLGİ ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "193",
+    "schoolName": "İSTANBUL ESENYURT ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "194",
+    "schoolName": "İSTANBUL GEDİK ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "195",
+    "schoolName": "İSTANBUL GELİŞİM ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "196",
+    "schoolName": "İSTANBUL KAVRAM MESLEK YÜKSEKOKULU"
+  },
+  {
+    "schoolId": "197",
+    "schoolName": "İSTANBUL KENT ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "198",
+    "schoolName": "İSTANBUL KÜLTÜR ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "199",
+    "schoolName": "İSTANBUL MEDENİYET ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "200",
+    "schoolName": "İSTANBUL MEDİPOL ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "201",
+    "schoolName": "İSTANBUL RUMELİ ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "202",
+    "schoolName": "İSTANBUL SABAHATTİN ZAİM ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "203",
+    "schoolName": "İSTANBUL ŞEHİR ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "204",
+    "schoolName": "İSTANBUL ŞİŞLİ MESLEK YÜKSEKOKULU"
+  },
+  {
+    "schoolId": "205",
+    "schoolName": "İSTANBUL TEKNİK ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "206",
+    "schoolName": "İSTANBUL TİCARET ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "207",
+    "schoolName": "İSTANBUL ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "208",
+    "schoolName": "İSTANBUL YENİ YÜZYIL ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "209",
+    "schoolName": "İSTİNYE ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "210",
+    "schoolName": "İZMİR DEMOKRASİ ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "211",
+    "schoolName": "İZMİR EKONOMİ ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "212",
+    "schoolName": "İZMİR KATİP ÇELEBİ ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "213",
+    "schoolName": "İZMİR YÜKSEK TEKNOLOJİ ENSTİTÜSÜ"
+  },
+  {
+    "schoolId": "214",
+    "schoolName": "KADİR HAS ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "215",
+    "schoolName": "KAFKAS ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "216",
+    "schoolName": "KAHRAMANMARAŞ SÜTÇÜ İMAM ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "217",
+    "schoolName": "KAPADOKYA ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "218",
+    "schoolName": "KARABÜK ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "219",
+    "schoolName": "KARADENİZ TEKNİK ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "220",
+    "schoolName": "KARAMANOĞLU MEHMETBEY ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "221",
+    "schoolName": "KASTAMONU ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "222",
+    "schoolName": "KIBRIS AMERİKAN ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "223",
+    "schoolName": "KIBRIS İLİM ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "224",
+    "schoolName": "KIBRIS SOSYAL BİLİMLER ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "225",
+    "schoolName": "KIRIKKALE ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "226",
+    "schoolName": "KIRKLARELİ ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "227",
+    "schoolName": "KİLİS 7 ARALIK ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "228",
+    "schoolName": "KOCAELİ ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "229",
+    "schoolName": "KOÇ ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "230",
+    "schoolName": "KONYA GIDA VE TARIM ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "231",
+    "schoolName": "KTO KARATAY ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "232",
+    "schoolName": "LEFKE AVRUPA ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "233",
+    "schoolName": "MALTEPE ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "234",
+    "schoolName": "MANİSA CELAL BAYAR ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "235",
+    "schoolName": "MARDİN ARTUKLU ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "236",
+    "schoolName": "MARMARA ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "237",
+    "schoolName": "MEF ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "238",
+    "schoolName": "MEHMET AKİF ERSOY ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "239",
+    "schoolName": "MERSİN ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "240",
+    "schoolName": "MİLLİ SAVUNMA ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "241",
+    "schoolName": "MİMAR SİNAN GÜZEL SANATLAR ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "242",
+    "schoolName": "MUĞLA SITKI KOÇMAN ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "243",
+    "schoolName": "MUNZUR ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "244",
+    "schoolName": "MUSTAFA KEMAL ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "245",
+    "schoolName": "MUŞ ALPARSLAN ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "246",
+    "schoolName": "NAMIK KEMAL ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "247",
+    "schoolName": "NECMETTİN ERBAKAN ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "248",
+    "schoolName": "NEVŞEHİR HACI BEKTAŞ VELİ ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "249",
+    "schoolName": "NİĞDE ÖMER HALİSDEMİR ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "250",
+    "schoolName": "NİŞANTAŞI ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "251",
+    "schoolName": "NUH NACİ YAZGAN ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "252",
+    "schoolName": "OKAN ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "253",
+    "schoolName": "ONDOKUZ MAYIS ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "254",
+    "schoolName": "ORDU ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "255",
+    "schoolName": "ORTA DOĞU TEKNİK ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "256",
+    "schoolName": "OSMANİYE KORKUT ATA ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "257",
+    "schoolName": "ÖZYEĞİN ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "258",
+    "schoolName": "PAMUKKALE ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "259",
+    "schoolName": "PİRİ REİS ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "260",
+    "schoolName": "RECEP TAYYİP ERDOĞAN ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "261",
+    "schoolName": "SABANCI ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "262",
+    "schoolName": "SAĞLIK BİLİMLERİ ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "263",
+    "schoolName": "SAKARYA ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "264",
+    "schoolName": "SANKO ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "265",
+    "schoolName": "SELÇUK ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "266",
+    "schoolName": "SİİRT ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "267",
+    "schoolName": "SİNOP ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "268",
+    "schoolName": "SÜLEYMAN DEMİREL ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "269",
+    "schoolName": "ŞIRNAK ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "270",
+    "schoolName": "TED ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "271",
+    "schoolName": "TOBB EKONOMİ VE TEKNOLOJİ ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "272",
+    "schoolName": "TOROS ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "273",
+    "schoolName": "TRAKYA ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "274",
+    "schoolName": "TÜRK HAVA KURUMU ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "275",
+    "schoolName": "TÜRK-ALMAN ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "276",
+    "schoolName": "UFUK ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "277",
+    "schoolName": "ULUDAĞ ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "278",
+    "schoolName": "ULUSLAR ARASI KIBRIS ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "279",
+    "schoolName": "UŞAK ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "280",
+    "schoolName": "ÜSKÜDAR ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "281",
+    "schoolName": "YAKINDOĞU ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "282",
+    "schoolName": "YALOVA ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "283",
+    "schoolName": "YAŞAR ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "284",
+    "schoolName": "YEDİTEPE ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "285",
+    "schoolName": "YILDIZ TEKNİK ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "286",
+    "schoolName": "YÜKSEK İHTİSAS ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "287",
+    "schoolName": "YÜZÜNCÜ YIL ÜNİVERSİTESİ"
+  },
+  {
+    "schoolId": "288",
+    "schoolName": "İSTANBUL BİLİM ÜNİVERSİTESİ"
+  }
+]
