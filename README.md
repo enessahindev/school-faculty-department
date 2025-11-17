@@ -1,4 +1,4 @@
-# School,Faculty,Deparment JSON Dataset
+# School,Faculty,Department JSON Dataset
 
 Bu proje, **okul, fakülte, bölüm** verilerini JSON formatında sağlar. Veriler **relational-style** (ilişkisel) olarak düzenlenmiştir ve projelerde okul/fakülte/bölüm ilişkilerini yönetmek için kullanılabilir.
 
